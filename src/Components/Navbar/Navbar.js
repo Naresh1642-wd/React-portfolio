@@ -12,7 +12,7 @@ const showNavbar = ()=>{
 
   return (
     <header>
-        <div href="#" className="logo">N<span>a</span>resh<span>.</span></div>
+        <div href="#" className="logo">N<span>a</span>resh<span>...</span></div>
  
         <div className="bx bx-menu" id="menu-icon" onClick={showNavbar}
 ></div>
